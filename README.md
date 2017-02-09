@@ -1,4 +1,4 @@
-# pull-skip
+# pull-skip [![Build Status](https://travis-ci.org/tableflip/pull-skip.svg?branch=master)](https://travis-ci.org/tableflip/pull-skip) [![dependencies Status](https://david-dm.org/tableflip/pull-skip/status.svg)](https://david-dm.org/tableflip/pull-skip)
 
 Skip the first n bytes of your [pull stream](https://www.npmjs.com/package/pull-stream).
 
@@ -21,3 +21,7 @@ pull(
   })
 )
 ```
+
+---
+
+[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
