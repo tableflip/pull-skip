@@ -1,6 +1,6 @@
 {
   "name": "pull-skip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Skip the first n bytes of your pull stream",
   "main": "index.js",
   "scripts": {
